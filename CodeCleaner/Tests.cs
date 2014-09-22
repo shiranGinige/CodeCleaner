@@ -22,14 +22,6 @@ namespace UnitTestProject1
             codeCleaner.EatRegions();
         }
 
-        #region
-
-        public void TEst()
-        {
-
-        }
-
-        #endregion 
 
     }
 }
