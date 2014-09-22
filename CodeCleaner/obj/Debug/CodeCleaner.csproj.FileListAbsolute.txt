@@ -1,0 +1,5 @@
+C:\Projects\CommentEater\CodeCleaner\bin\Debug\UnitTestProject1.dll
+C:\Projects\CommentEater\CodeCleaner\bin\Debug\UnitTestProject1.pdb
+C:\Projects\CommentEater\CodeCleaner\obj\Debug\UnitTestProject1.dll
+C:\Projects\CommentEater\CodeCleaner\obj\Debug\UnitTestProject1.pdb
+C:\Projects\CommentEater\CodeCleaner\obj\Debug\CodeCleaner.csprojResolveAssemblyReference.cache
